@@ -1,0 +1,41 @@
+{
+    "editor.minimap.enabled": false,
+    "files.associations": {
+        "**/*.yml": "ansible",
+        "*.h": "c"
+    },
+    "scss.validate": false,
+    "terminal.integrated.rendererType": "dom",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "blade.format.enable": true,
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[c]": {"editor.tabSize": 8, "editor.insertSpaces": false},
+    "editor.rulers": [
+        85
+    ],
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "vue"
+    ],
+    "vetur.validation.template": false,
+    "vetur.format.enable": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": 0,
+    "editor.detectIndentation": false,
+}
